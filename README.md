@@ -94,19 +94,6 @@ I enjoy solving complex financial problems, designing data-driven applications, 
 
 ---
 
-## 📊 GitHub Stats
-
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaron-d-28\&show_icons=true\&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aaron-d-28\&theme=tokyonight)
-
-## 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-d-28\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
