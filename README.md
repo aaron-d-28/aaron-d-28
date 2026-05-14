@@ -54,15 +54,6 @@ I enjoy solving complex financial problems, designing data-driven applications, 
 * Portfolio Analytics
 * Time Series Analysis
 
-## 🛠️ Tools & Platforms
-
-* Git & GitHub
-* Linux
-* Docker
-* REST APIs
-
----
-
 # 📌 Current Focus
 
 * 📈 ETF Risk Analyzer
